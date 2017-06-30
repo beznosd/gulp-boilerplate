@@ -1,4 +1,4 @@
-# Gulp boilerpate
+# Gulp boilerplate
 
  Установка и запуск
 
